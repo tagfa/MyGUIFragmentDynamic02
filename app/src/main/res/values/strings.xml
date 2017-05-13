@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My GUI Fragment Dynamic02</string>
+
+    <!--一覧項目用-->
+    <string-array name="Titles">
+        <item>項目1</item>
+        <item>項目2</item>
+        <item>項目3</item>
+    </string-array>
+
+    <!--項目選択時用-->
+    <string-array name="Contents">
+        <item>項目1の内容</item>
+        <item>項目2の内容</item>
+        <item>項目3の内容</item>
+    </string-array>
+
+</resources>
